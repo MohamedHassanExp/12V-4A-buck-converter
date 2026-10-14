@@ -13,7 +13,7 @@ A custom-designed printed circuit board (PCB) for a 12V, 4A step-down (buck) pow
 
 ##  About the Project
 
-This project contains the complete hardware design files for a DC-DC buck converter capable of delivering 4 amps at 12 volts. It serves as a robust power supply module for embedded systems and custom electronics requiring efficient voltage step-down regulation. 
+This project contains the complete hardware design files for a DC-DC buck converter capable of delivering 4 amps at 12 volts. It serves as a power supply module for embedded systems and custom electronics requiring efficient voltage step-down regulation. 
 
 ### Tech Stack
 *   **EDA Software:** KiCad (for schematic capture and PCB layout)
